@@ -1,0 +1,221 @@
+header { 
+    
+    height: 100px;
+    border-bottom: 1px solid gray;
+    position: relative right 0;
+}
+.logo {
+    size: 100;
+}
+.mainimage img {
+    width: 1700px;
+}
+
+main .기모륑 {
+    text-align:center;
+    font-size: 15px;
+}
+main .txt1{
+    background-color:blue;
+    color: white;
+    float: left;
+    text-align: left;
+    padding: 20px;
+    flex-grow: 1;
+}
+main .txt2 {
+    background-color:navy;
+    color: white;
+    float: left;
+    text-align: left;
+    padding: 20px;
+    flex-grow: 1;
+}
+main .txt3 {
+    background-color: blue;
+    color: white;
+    float: left;
+    text-align: left;
+    padding: 20px;
+    flex-grow: 1;
+}
+
+main .표{
+    width: 1040px;
+    text-align: center;
+    display:flex;
+    flex-direction: row;
+}
+footer {
+    background:darkblue;
+    padding: 30px;
+    color: white;
+    height: 400px;
+}
+.inner-container {
+    margin: 0 auto;
+    width: 1040px;
+    position: relative;
+}
+.inner-container1 {
+    margin: 0 auto;
+    width: 1300px;
+}
+#logo{
+    position: absolute;
+    left: 30;
+    top: 30px;
+
+}
+#div {
+    position: absolute;
+    left: 50%;
+    margin: -200px;
+    top: 30px;
+    
+}
+header button{
+    position: absolute;
+    right: 0;
+    top: 30px;
+}
+nav{
+    position:absolute;
+    left: 50%;
+    margin-left: -280px;
+    top: 30px;
+
+}
+nav a{
+    margin:20px;
+}
+li {
+list-style-type: none;
+}
+
+footer a{
+    margin: 55px; 
+    top: -30;
+}
+
+.inner-container2{
+    width: 1040px;
+    margin: 0 auto;
+  position: relative;
+  display:flex;
+  height: 300px;
+}
+.box1,.box2,.box3,.box4,.box5,.box6 {
+    flex-grow:1;
+}
+.box7 {
+    border-top: solid 1px skyblue;
+    margin: top;
+    position: absolute;
+    bottom: -40px;
+    padding-top:20px;
+    text-align: center;
+    left:105px;
+}
+main .gray {
+    color: gray;
+    float: left;
+    padding-right:10px;
+}
+main .news1 {
+    margin-top: 100px;
+    padding-bottom: 9px;
+    padding-top: 9px;
+    border-bottom: 0.6px solid rgb(185, 182, 182);
+}
+.news2{
+    padding-bottom: 9px;
+    padding-top: 9px;
+    border-bottom: 0.6px solid rgb(185, 182, 182);
+}
+.news3{
+    padding-bottom: 9px;
+    padding-top: 9px;
+    border-bottom: 0.6px solid rgb(185, 182, 182);
+}
+.news4{
+    padding-bottom: 9px;
+    padding-top: 9px;
+    border-bottom: 0.6px solid rgb(185, 182, 182);
+}
+.news5{
+    padding-bottom: 9px;
+    padding-top: 9px;
+    border-bottom: 0.6px solid rgb(185, 182, 182);
+}
+.news6{
+    padding-bottom: 9px;
+    padding-top: 9px;
+    border-bottom: 0.6px solid rgb(185, 182, 182);
+    margin-bottom: 30px;
+}
+main .date {
+    float: right;   
+}
+main .nt {
+    color: black;
+}
+footer .subimage{
+    display:flex;
+    position: absolute;
+    top: 220px;
+    right:45%;
+}   
+main .ㅗ {
+    text-align: center;
+    font-size: 17px;
+    padding: 30px;
+}
+main .배경 {
+    background-color: white;
+    height: 400px;
+}
+ main .inner-container3 {
+    width: 1040px;
+    margin: 0px auto;
+ }
+ main .gallery1{
+    width: 300px;
+    height: 150px;
+ }
+ main .gallery2{
+     width: 300px;
+     height: 150px;
+ }
+ main .gallery3{
+     width: 350px;
+     height: 150px;
+ }
+ main .gallery {
+     
+     display: flex;
+     
+ }
+ main .gallery1 img {
+    width: 300px;
+    height: 200px;
+ }
+ main .gallery2 img{
+    width: 300px;
+     height: 200px;
+ }
+ main .gallery3 img{
+    width: 300px;
+    height: 200px;
+ }
+ main .gallery1 {
+    margin-right:70px;
+ }
+ main .gallery2 {
+    margin-right: 70px;
+ }
+ main .gallery3 {
+     margin-right: 1000px;
+ }
+
+ 
