@@ -1,3 +1,4 @@
+@@ -0,0 +1,221 @@
 header { 
     
     height: 100px;
@@ -16,7 +17,7 @@ main .기모륑 {
     font-size: 15px;
 }
 main .txt1{
-    background-color:blue;
+    background-color:#bd2c32;
     color: white;
     float: left;
     text-align: left;
@@ -24,7 +25,7 @@ main .txt1{
     flex-grow: 1;
 }
 main .txt2 {
-    background-color:navy;
+    background-color: #8a2c32;
     color: white;
     float: left;
     text-align: left;
@@ -32,7 +33,7 @@ main .txt2 {
     flex-grow: 1;
 }
 main .txt3 {
-    background-color: blue;
+    background-color:#bd2c32;
     color: white;
     float: left;
     text-align: left;
@@ -47,7 +48,7 @@ main .표{
     flex-direction: row;
 }
 footer {
-    background:darkblue;
+    background:#5d0e0e;
     padding: 30px;
     color: white;
     height: 400px;
